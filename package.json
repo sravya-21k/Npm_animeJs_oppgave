@@ -2,7 +2,7 @@
   "name": "anime_js",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://{sravya-21k}.github.io/{Npm_animeJs_oppgave}/",
+  "homepage": "https://sravya-21k.github.io/Npm_animeJs_oppgave/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
@@ -16,6 +16,7 @@
     "vite": "^6.0.1"
   },
   "dependencies": {
-    "animejs": "^3.2.2"
+    "animejs": "^3.2.2",
+    "react": "^18.3.1"
   }
 }
